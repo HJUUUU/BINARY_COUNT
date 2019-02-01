@@ -16,5 +16,5 @@ int main() {
 	}
 
 	printf("The number is %d", cnt);
-
+	return 0;
 }
